@@ -46,4 +46,3 @@ Just download the files and take index.html, styles.css, and the scripts.js and 
 #### Is this AI Generated!
 
 No, the only thing thats AI Generated is the script.js as I do not know how to use javascript but everything else is made by humans.
-
